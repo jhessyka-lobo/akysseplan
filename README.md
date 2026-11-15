@@ -1,2 +1,3 @@
-# rota-p1-cbmma-2026
+# AkyssePlan
 Guia de bolso 
+estudo de cálculo e raciocínio 
